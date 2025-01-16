@@ -1,4 +1,4 @@
-local Library = loadstring(game:HttpGet("https://you.whimper.xyz/sources/btteam/SystemUI.lua"))() -- LIBRARY
+local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/NguyenNoname/btsysui/refs/heads/main/btui.lua"))() -- LIBRARY
 
 
 local Window = Library:CreateWindow('Cut Chim Hub| By Nguyen Tran') -- CREATE WINDOW
